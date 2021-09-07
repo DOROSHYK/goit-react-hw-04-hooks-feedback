@@ -1,4 +1,23 @@
 body {
+  /* background-image: linear-gradient(
+    to right top,
+    #a0c0f2,
+    #9bbcf0,
+    #96b7ee,
+    #91b3ec,
+    #8caeea,
+    #82b4f0,
+    #76b9f4,
+    #69bff8,
+    #52cffe,
+    #41dfff,
+    #46eefa,
+    #5ffbf1
+  ); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",

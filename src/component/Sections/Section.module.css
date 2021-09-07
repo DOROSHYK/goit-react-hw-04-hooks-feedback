@@ -1,0 +1,14 @@
+.title {
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.section {
+  margin: 0 auto 40px;
+  padding-top: 50px;
+  width: 300px;
+}
+
+.container {
+  display: inline-block;
+}

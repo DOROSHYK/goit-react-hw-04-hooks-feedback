@@ -1,0 +1,11 @@
+.notificationContainer {
+  width: 250px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.title {
+  margin: 0;
+  /* padding-left: 430px; */
+  font-size: 30px;
+}

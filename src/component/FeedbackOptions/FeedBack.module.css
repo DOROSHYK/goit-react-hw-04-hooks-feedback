@@ -1,0 +1,15 @@
+.button {
+  height: 30px;
+  width: 150px;
+  border-radius: 10px;
+  margin-right: 5px;
+  background-color: #5ffbf1;
+}
+
+.containerButton {
+  display: flex;
+}
+
+.button:last-child {
+  margin-right: 0;
+}
