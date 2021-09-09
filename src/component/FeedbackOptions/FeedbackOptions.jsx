@@ -10,7 +10,8 @@ const FeedbackOptions = ({ options, onLeaveFeedback }) => {
           className={style.button}
           key={shortid.generate()}
           type="button"
-          onClick={onLeaveFeedback}
+          data-feedback={option}
+          onClick={() => onLeaveFeedback(option)}
         >
           {option}
         </button>

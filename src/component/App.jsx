@@ -27,7 +27,7 @@ export default function App() {
     // const { good } = this.state;
     // const percentage = (good * 100) / result;
     // return Math.round(percentage);
-    return Math.round((goodFeedback / countTotalFeedback()) * 100) || 0;
+    return Math.round((goodFeedback / countTotalFeedback()) * 100);
   };
 
   const onLeaveFeedback = (option) => {
